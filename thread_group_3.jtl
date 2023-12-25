@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1700497127485,2525,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,1748,561,2,5,https://secondhand.binaracademy.org/users.json,2525,0,1268
+1700497130016,50,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,1968,531,2,5,https://secondhand.binaracademy.org/users/sign_in.json,50,0,0
+1700497129487,1046,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,1760,561,2,5,https://secondhand.binaracademy.org/users.json,1046,0,121
+1700497130538,142,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,1974,531,2,5,https://secondhand.binaracademy.org/users/sign_in.json,142,0,0
+1700497130066,1236,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,1472,8955,2,5,https://secondhand.binaracademy.org/profiles.json,1236,0,0
+1700497131303,62,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,1474,421,2,5,https://secondhand.binaracademy.org/profiles.json,62,0,0
+1700497131366,490,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,1070,423,3,7,https://secondhand.binaracademy.org/categories.json,490,0,0
+1700497130681,1509,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,1472,8906,3,7,https://secondhand.binaracademy.org/profiles.json,1509,0,0
+1700497131486,753,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,1742,561,3,7,https://secondhand.binaracademy.org/users.json,753,0,62
+1700497132190,99,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,1468,421,3,7,https://secondhand.binaracademy.org/profiles.json,99,0,0
+1700497132244,54,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,1969,531,3,7,https://secondhand.binaracademy.org/users/sign_in.json,54,0,0
+1700497132290,75,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,1070,423,3,7,https://secondhand.binaracademy.org/categories.json,75,0,0
+1700497131857,580,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-1,text,true,,2229,9112,3,7,https://secondhand.binaracademy.org/products.json,580,0,0
+1700497132438,306,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,13299,421,3,7,https://secondhand.binaracademy.org/products.json,306,0,0
+1700497132299,1089,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,1466,8927,3,7,https://secondhand.binaracademy.org/profiles.json,1089,0,0
+1700497132366,1066,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-2,text,true,,2235,9136,3,7,https://secondhand.binaracademy.org/products.json,1066,0,0
+1700497133388,204,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,1470,421,4,9,https://secondhand.binaracademy.org/profiles.json,204,0,0
+1700497132745,1329,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33712,835,4,9,https://secondhand.binaracademy.org/,146,0,0
+1700497132745,146,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-1,text,true,,712,427,4,9,https://secondhand.binaracademy.org/products/64257.json,146,0,0
+1700497132891,1183,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33000,408,4,9,https://secondhand.binaracademy.org/,1103,0,0
+1700497133592,541,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,1070,423,4,9,https://secondhand.binaracademy.org/categories.json,541,0,0
+1700497133432,725,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,13313,421,4,9,https://secondhand.binaracademy.org/products.json,725,0,0
+1700497133485,850,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,1763,561,4,9,https://secondhand.binaracademy.org/users.json,850,0,51
+1700497134134,524,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-3,text,true,,2225,9152,4,9,https://secondhand.binaracademy.org/products.json,524,0,0
+1700497134339,440,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,1970,531,4,9,https://secondhand.binaracademy.org/users/sign_in.json,440,0,0
+1700497134158,736,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33732,835,4,9,https://secondhand.binaracademy.org/,184,0,0
+1700497134158,184,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-2,text,true,,712,427,4,9,https://secondhand.binaracademy.org/products/64257.json,184,0,0
+1700497134342,552,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33020,408,4,9,https://secondhand.binaracademy.org/,492,0,0
+1700497134658,479,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,13324,421,4,9,https://secondhand.binaracademy.org/products.json,479,0,0
+1700497134074,1126,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33728,133314,4,9,https://secondhand.binaracademy.org/,507,0,0
+1700497134074,507,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-1,text,true,,712,132906,4,9,https://secondhand.binaracademy.org/products/64257.json,507,0,0
+1700497134581,619,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33016,408,4,9,https://secondhand.binaracademy.org/,509,0,0
+1700497135138,758,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,33694,835,5,9,https://secondhand.binaracademy.org/,137,0,0
+1700497135138,137,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-3,text,true,,712,427,5,9,https://secondhand.binaracademy.org/products/64257.json,137,0,0
+1700497135275,621,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,32982,408,5,9,https://secondhand.binaracademy.org/,618,0,0
+1700497134780,1372,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,1476,8906,5,9,https://secondhand.binaracademy.org/profiles.json,1372,0,0
+1700497136153,215,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,1464,421,5,8,https://secondhand.binaracademy.org/profiles.json,215,0,0
+1700497135202,1201,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,34115,1466,5,8,https://secondhand.binaracademy.org/,306,0,0
+1700497135202,306,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-1,text,true,,1105,1058,5,8,https://secondhand.binaracademy.org/offers.json,306,0,0
+1700497135508,895,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33010,408,5,8,https://secondhand.binaracademy.org/,848,0,0
+1700497135485,983,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,1765,561,5,8,https://secondhand.binaracademy.org/users.json,983,0,131
+1700497136368,342,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,1070,423,5,8,https://secondhand.binaracademy.org/categories.json,342,0,0
+1700497134895,1838,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33728,133378,5,8,https://secondhand.binaracademy.org/,984,0,0
+1700497134895,984,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-2,text,true,,712,132970,5,8,https://secondhand.binaracademy.org/products/64257.json,984,0,0
+1700497135879,854,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33016,408,5,8,https://secondhand.binaracademy.org/,853,0,0
+1700497136404,412,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,1132,431,5,8,https://secondhand.binaracademy.org/users/64193/offers.json,412,0,0
+1700497136472,434,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,1970,531,5,8,https://secondhand.binaracademy.org/users/sign_in.json,434,0,0
+1700497135897,1033,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,33734,133386,5,8,https://secondhand.binaracademy.org/,433,0,0
+1700497135897,433,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-3,text,true,,712,132978,5,8,https://secondhand.binaracademy.org/products/64257.json,433,0,0
+1700497136330,600,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,33022,408,5,8,https://secondhand.binaracademy.org/,598,0,0
+1700497136733,541,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,34117,1491,5,8,https://secondhand.binaracademy.org/,198,0,0
+1700497136733,198,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-2,text,true,,1111,1083,5,8,https://secondhand.binaracademy.org/offers.json,198,0,0
+1700497136931,343,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33006,408,5,8,https://secondhand.binaracademy.org/,238,0,0
+1700497136817,855,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33720,959,6,9,https://secondhand.binaracademy.org/,122,0,0
+1700497136817,122,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-1,text,true,,712,551,6,9,https://secondhand.binaracademy.org/products/64257.json,122,0,0
+1700497136940,732,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-1,text,true,,33008,408,6,9,https://secondhand.binaracademy.org/,711,0,0
+1700497137276,494,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,1124,431,5,8,https://secondhand.binaracademy.org/users/64193/offers.json,494,0,0
+1700497136931,865,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,34109,1461,5,8,https://secondhand.binaracademy.org/,239,0,0
+1700497136931,239,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-3,text,true,,1097,1053,5,8,https://secondhand.binaracademy.org/offers.json,239,0,0
+1700497137170,626,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,33012,408,5,8,https://secondhand.binaracademy.org/,626,0,0
+1700497136710,1173,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-4,text,true,,2225,9160,5,8,https://secondhand.binaracademy.org/products.json,1173,0,0
+1700497137797,161,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,1128,431,5,8,https://secondhand.binaracademy.org/users/64193/offers.json,161,0,0
+1700497137884,440,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,13308,421,5,8,https://secondhand.binaracademy.org/products.json,439,0,0
+1700497137771,574,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33724,955,5,8,https://secondhand.binaracademy.org/,170,0,0
+1700497137771,171,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-2,text,true,,712,547,5,8,https://secondhand.binaracademy.org/products/64257.json,170,0,0
+1700497137942,403,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-2,text,true,,33012,408,5,8,https://secondhand.binaracademy.org/,401,0,0
+1700497137485,870,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,1759,561,4,7,https://secondhand.binaracademy.org/users.json,870,0,139
+1700497138359,86,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,1964,531,4,7,https://secondhand.binaracademy.org/users/sign_in.json,86,0,0
+1700497136907,1773,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,1460,8948,4,6,https://secondhand.binaracademy.org/profiles.json,1773,0,0
+1700497138324,553,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,33724,835,4,6,https://secondhand.binaracademy.org/,37,0,0
+1700497138324,37,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-4,text,true,,712,427,4,6,https://secondhand.binaracademy.org/products/64257.json,37,0,0
+1700497138361,516,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,33012,408,4,6,https://secondhand.binaracademy.org/,471,0,0
+1700497138681,272,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,1470,421,4,6,https://secondhand.binaracademy.org/profiles.json,272,0,0
+1700497137959,1033,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,33728,971,4,6,https://secondhand.binaracademy.org/,435,0,0
+1700497137959,435,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-3,text,true,,712,563,4,6,https://secondhand.binaracademy.org/products/64257.json,435,0,0
+1700497138394,598,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-3,text,true,,33016,408,4,6,https://secondhand.binaracademy.org/,587,0,0
+1700497138953,40,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,1070,423,4,6,https://secondhand.binaracademy.org/categories.json,40,0,0
+1700497138993,433,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-5,text,true,,2229,9160,3,5,https://secondhand.binaracademy.org/products.json,433,0,0
+1700497138446,1132,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,1464,8892,4,6,https://secondhand.binaracademy.org/profiles.json,1131,0,0
+1700497139578,94,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,1466,421,4,6,https://secondhand.binaracademy.org/profiles.json,94,0,0
+1700497139673,212,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,1070,423,4,6,https://secondhand.binaracademy.org/categories.json,212,0,0
+1700497139427,669,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,13309,421,4,6,https://secondhand.binaracademy.org/products.json,669,0,0
+1700497139501,736,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,1745,561,4,6,https://secondhand.binaracademy.org/users.json,736,0,62
+1700497140240,164,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,1967,531,4,6,https://secondhand.binaracademy.org/users/sign_in.json,164,0,0
+1700497138878,1541,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,33720,133378,4,6,https://secondhand.binaracademy.org/,548,0,0
+1700497138878,548,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-4,text,true,,712,132970,4,6,https://secondhand.binaracademy.org/products/64257.json,548,0,0
+1700497139426,993,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,33008,408,4,6,https://secondhand.binaracademy.org/,841,0,0
+1700497139886,783,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-6,text,true,,2227,9128,4,6,https://secondhand.binaracademy.org/products.json,783,0,0
+1700497140097,716,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,33706,835,4,6,https://secondhand.binaracademy.org/,304,0,0
+1700497140097,304,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-5,text,true,,712,427,4,6,https://secondhand.binaracademy.org/products/64257.json,304,0,0
+1700497140401,412,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,32994,408,4,6,https://secondhand.binaracademy.org/,373,0,0
+1700497140670,188,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,13322,421,4,6,https://secondhand.binaracademy.org/products.json,188,0,0
+1700497140420,672,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,34127,1481,4,6,https://secondhand.binaracademy.org/,249,0,0
+1700497140420,249,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-4,text,true,,1101,1073,4,6,https://secondhand.binaracademy.org/offers.json,249,0,0
+1700497140670,422,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,33026,408,4,6,https://secondhand.binaracademy.org/,319,0,0
+1700497140858,519,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,33700,835,4,6,https://secondhand.binaracademy.org/,88,0,0
+1700497140858,88,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-6,text,true,,712,427,4,6,https://secondhand.binaracademy.org/products/64257.json,88,0,0
+1700497140946,431,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,32988,408,4,6,https://secondhand.binaracademy.org/,427,0,0
+1700497141093,381,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,1124,431,4,6,https://secondhand.binaracademy.org/users/64193/offers.json,381,0,0
+1700497140405,1105,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,1460,8892,5,6,https://secondhand.binaracademy.org/profiles.json,1105,0,0
+1700497141510,87,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,1482,421,5,6,https://secondhand.binaracademy.org/profiles.json,87,0,0
+1700497141598,43,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,1070,423,5,6,https://secondhand.binaracademy.org/categories.json,43,0,0
+1700497140814,851,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,33712,133314,5,6,https://secondhand.binaracademy.org/,163,0,0
+1700497140814,163,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-5,text,true,,712,132906,5,6,https://secondhand.binaracademy.org/products/64257.json,163,0,0
+1700497140977,688,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,33000,408,5,6,https://secondhand.binaracademy.org/,648,0,0
+1700497141475,817,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,33692,953,5,6,https://secondhand.binaracademy.org/,52,0,0
+1700497141475,52,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-4,text,true,,712,545,5,6,https://secondhand.binaracademy.org/products/64257.json,52,0,0
+1700497141527,765,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-4,text,true,,32980,408,5,6,https://secondhand.binaracademy.org/,722,0,0
+1700497141486,867,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,1747,561,4,5,https://secondhand.binaracademy.org/users.json,867,0,51
+1700497141378,984,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,33732,133378,4,5,https://secondhand.binaracademy.org/,286,0,0
+1700497141378,286,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-6,text,true,,712,132970,4,5,https://secondhand.binaracademy.org/products/64257.json,286,0,0
+1700497141664,698,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,33020,408,4,5,https://secondhand.binaracademy.org/,659,0,0
+1700497142357,53,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,1967,531,4,5,https://secondhand.binaracademy.org/users/sign_in.json,53,0,0
+1700497141665,764,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,34089,1451,4,5,https://secondhand.binaracademy.org/,96,0,0
+1700497141665,96,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-5,text,true,,1111,1043,4,5,https://secondhand.binaracademy.org/offers.json,96,0,0
+1700497141761,668,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,32978,408,4,5,https://secondhand.binaracademy.org/,627,0,0
+1700497142430,68,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,1126,431,4,5,https://secondhand.binaracademy.org/users/64193/offers.json,68,0,0
+1700497141642,1193,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-7,text,true,,2220,9128,4,5,https://secondhand.binaracademy.org/products.json,1193,0,0
+1700497142363,491,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,34119,1476,4,5,https://secondhand.binaracademy.org/,47,0,0
+1700497142363,47,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-6,text,true,,1111,1068,4,5,https://secondhand.binaracademy.org/offers.json,47,0,0
+1700497142410,444,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,33008,408,4,5,https://secondhand.binaracademy.org/,425,0,0
+1700497142855,47,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,1128,431,4,5,https://secondhand.binaracademy.org/users/64193/offers.json,47,0,0
+1700497142835,140,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,13305,421,4,4,https://secondhand.binaracademy.org/products.json,140,0,0
+1700497142499,772,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,33730,961,4,4,https://secondhand.binaracademy.org/,335,0,0
+1700497142499,335,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-5,text,true,,712,553,4,4,https://secondhand.binaracademy.org/products/64257.json,335,0,0
+1700497142834,437,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-5,text,true,,33018,408,4,4,https://secondhand.binaracademy.org/,415,0,0
+1700497142903,612,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,33694,969,4,4,https://secondhand.binaracademy.org/,73,0,0
+1700497142903,73,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-6,text,true,,712,561,4,4,https://secondhand.binaracademy.org/products/64257.json,73,0,0
+1700497142976,539,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-6,text,true,,32982,408,4,4,https://secondhand.binaracademy.org/,520,0,0
+1700497142976,544,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,33696,835,3,3,https://secondhand.binaracademy.org/,61,0,0
+1700497142976,61,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-7,text,true,,712,427,3,3,https://secondhand.binaracademy.org/products/64257.json,61,0,0
+1700497143037,483,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,32984,408,3,3,https://secondhand.binaracademy.org/,483,0,0
+1700497142411,1163,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,1474,8899,3,3,https://secondhand.binaracademy.org/profiles.json,1163,0,0
+1700497143575,318,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,1470,421,3,3,https://secondhand.binaracademy.org/profiles.json,318,0,0
+1700497143486,415,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,1740,561,3,3,https://secondhand.binaracademy.org/users.json,415,0,49
+1700497143894,30,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,1070,423,3,3,https://secondhand.binaracademy.org/categories.json,30,0,0
+1700497143905,30,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,1955,531,3,3,https://secondhand.binaracademy.org/users/sign_in.json,30,0,0
+1700497143521,716,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,33714,133338,3,3,https://secondhand.binaracademy.org/,465,0,0
+1700497143521,465,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-7,text,true,,712,132930,3,3,https://secondhand.binaracademy.org/products/64257.json,465,0,0
+1700497143986,251,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,33002,408,3,3,https://secondhand.binaracademy.org/,251,0,0
+1700497143925,364,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-8,text,true,,2222,9104,3,3,https://secondhand.binaracademy.org/products.json,364,0,0
+1700497144289,270,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,13312,421,3,3,https://secondhand.binaracademy.org/products.json,270,0,0
+1700497144238,349,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,34095,1476,3,3,https://secondhand.binaracademy.org/,38,0,0
+1700497144238,38,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-7,text,true,,1105,1068,3,3,https://secondhand.binaracademy.org/offers.json,38,0,0
+1700497144276,311,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,32990,408,3,3,https://secondhand.binaracademy.org/,310,0,0
+1700497144588,37,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,1128,431,3,3,https://secondhand.binaracademy.org/users/64193/offers.json,37,0,0
+1700497144560,349,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,33726,835,3,3,https://secondhand.binaracademy.org/,36,0,0
+1700497144560,36,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-8,text,true,,712,427,3,3,https://secondhand.binaracademy.org/products/64257.json,36,0,0
+1700497144596,313,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,33014,408,3,3,https://secondhand.binaracademy.org/,312,0,0
+1700497143936,1007,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,1480,8920,3,3,https://secondhand.binaracademy.org/profiles.json,1007,0,0
+1700497144626,333,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,33722,953,3,3,https://secondhand.binaracademy.org/,26,0,0
+1700497144626,26,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-7,text,true,,712,545,3,3,https://secondhand.binaracademy.org/products/64257.json,26,0,0
+1700497144652,307,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-7,text,true,,33010,408,3,3,https://secondhand.binaracademy.org/,307,0,0
+1700497144944,60,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,1468,421,2,2,https://secondhand.binaracademy.org/profiles.json,60,0,0
+1700497145005,30,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,1070,423,2,2,https://secondhand.binaracademy.org/categories.json,30,0,0
+1700497144910,391,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,33692,133354,2,2,https://secondhand.binaracademy.org/,180,0,0
+1700497144910,180,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-8,text,true,,712,132946,2,2,https://secondhand.binaracademy.org/products/64257.json,180,0,0
+1700497145090,211,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,32980,408,2,2,https://secondhand.binaracademy.org/,211,0,0
+1700497145036,364,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-9,text,true,,2218,9168,2,2,https://secondhand.binaracademy.org/products.json,364,0,0
+1700497145401,217,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,13326,421,3,3,https://secondhand.binaracademy.org/products.json,217,0,0
+1700497145302,323,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,34143,1476,3,3,https://secondhand.binaracademy.org/,34,0,0
+1700497145302,34,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-8,text,true,,1113,1068,3,3,https://secondhand.binaracademy.org/offers.json,34,0,0
+1700497145336,289,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,33030,408,3,3,https://secondhand.binaracademy.org/,286,0,0
+1700497145625,44,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,1124,431,3,3,https://secondhand.binaracademy.org/users/64193/offers.json,44,0,0
+1700497145670,374,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,33730,969,3,3,https://secondhand.binaracademy.org/,26,0,0
+1700497145670,26,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-8,text,true,,712,561,3,3,https://secondhand.binaracademy.org/products/64257.json,26,0,0
+1700497145696,348,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-8,text,true,,33018,408,3,3,https://secondhand.binaracademy.org/,341,0,0
+1700497145618,434,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,33738,835,2,2,https://secondhand.binaracademy.org/,31,0,0
+1700497145618,31,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-9,text,true,,712,427,2,2,https://secondhand.binaracademy.org/products/64257.json,31,0,0
+1700497145649,403,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,33026,408,2,2,https://secondhand.binaracademy.org/,398,0,0
+1700497145486,674,POST Registration,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,1752,561,2,2,https://secondhand.binaracademy.org/users.json,674,0,49
+1700497146164,53,POST Session,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,1968,531,2,2,https://secondhand.binaracademy.org/users/sign_in.json,53,0,0
+1700497146052,434,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,33736,133330,2,2,https://secondhand.binaracademy.org/,147,0,0
+1700497146052,147,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-9,text,true,,712,132922,2,2,https://secondhand.binaracademy.org/products/64257.json,147,0,0
+1700497146199,287,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,33024,408,2,2,https://secondhand.binaracademy.org/,279,0,0
+1700497146218,1040,PUT Update Profile,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,1474,8892,2,2,https://secondhand.binaracademy.org/profiles.json,1040,0,0
+1700497147259,31,GET Get Profile,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,1470,421,2,2,https://secondhand.binaracademy.org/profiles.json,31,0,0
+1700497146487,825,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,34119,1491,2,2,https://secondhand.binaracademy.org/,460,0,0
+1700497146487,460,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-9,text,true,,1097,1083,2,2,https://secondhand.binaracademy.org/offers.json,460,0,0
+1700497146947,365,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,33022,408,2,2,https://secondhand.binaracademy.org/,343,0,0
+1700497147291,29,GET Categories,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,1070,423,2,2,https://secondhand.binaracademy.org/categories.json,29,0,0
+1700497147312,46,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,1126,431,2,2,https://secondhand.binaracademy.org/users/64193/offers.json,46,0,0
+1700497147358,670,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,33708,969,2,2,https://secondhand.binaracademy.org/,26,0,0
+1700497147358,26,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-9,text,true,,712,561,2,2,https://secondhand.binaracademy.org/products/64257.json,26,0,0
+1700497147385,643,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-9,text,true,,32996,408,2,2,https://secondhand.binaracademy.org/,643,0,0
+1700497147321,707,POST Create Product,201,Created,10 user - 20 seconds - 1 loop 3-10,text,true,,2222,9144,2,2,https://secondhand.binaracademy.org/products.json,707,0,0
+1700497148029,148,GET List Products,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,13301,421,1,1,https://secondhand.binaracademy.org/products.json,148,0,0
+1700497148177,525,GET Get Product,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,33730,835,1,1,https://secondhand.binaracademy.org/,28,0,0
+1700497148177,28,GET Get Product-0,302,Found,10 user - 20 seconds - 1 loop 3-10,text,true,,712,427,1,1,https://secondhand.binaracademy.org/products/64257.json,28,0,0
+1700497148205,497,GET Get Product-1,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,33018,408,1,1,https://secondhand.binaracademy.org/,452,0,0
+1700497148703,466,PUT Update Product,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,33690,133338,1,1,https://secondhand.binaracademy.org/,166,0,0
+1700497148703,166,PUT Update Product-0,302,Found,10 user - 20 seconds - 1 loop 3-10,text,true,,712,132930,1,1,https://secondhand.binaracademy.org/products/64257.json,166,0,0
+1700497148870,299,PUT Update Product-1,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,32978,408,1,1,https://secondhand.binaracademy.org/,254,0,0
+1700497149170,343,POST Create Offer,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,34099,1461,1,1,https://secondhand.binaracademy.org/,30,0,0
+1700497149170,30,POST Create Offer-0,302,Found,10 user - 20 seconds - 1 loop 3-10,text,true,,1111,1053,1,1,https://secondhand.binaracademy.org/offers.json,30,0,0
+1700497149200,313,POST Create Offer-1,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,32988,408,1,1,https://secondhand.binaracademy.org/,203,0,0
+1700497149514,33,GET List Offers,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,1132,431,1,1,https://secondhand.binaracademy.org/users/64193/offers.json,33,0,0
+1700497149548,356,DELETE Delete Product,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,33732,953,1,1,https://secondhand.binaracademy.org/,31,0,0
+1700497149548,31,DELETE Delete Product-0,302,Found,10 user - 20 seconds - 1 loop 3-10,text,true,,712,545,1,1,https://secondhand.binaracademy.org/products/64257.json,31,0,0
+1700497149580,324,DELETE Delete Product-1,200,OK,10 user - 20 seconds - 1 loop 3-10,text,true,,33020,408,1,1,https://secondhand.binaracademy.org/,283,0,0

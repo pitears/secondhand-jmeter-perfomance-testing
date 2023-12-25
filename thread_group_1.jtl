@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1700497127471,1751,POST Registration,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,1757,561,1,3,https://secondhand.binaracademy.org/users.json,1751,0,1282
+1700497129227,318,POST Session,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,1971,531,1,5,https://secondhand.binaracademy.org/users/sign_in.json,317,0,0
+1700497129546,1095,PUT Update Profile,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,1470,8899,1,5,https://secondhand.binaracademy.org/profiles.json,1095,0,0
+1700497130642,74,GET Get Profile,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,1476,421,1,5,https://secondhand.binaracademy.org/profiles.json,74,0,0
+1700497130716,34,GET Categories,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,1070,423,1,5,https://secondhand.binaracademy.org/categories.json,34,0,0
+1700497130751,564,POST Create Product,201,Created,1 user - 1 seconds - 1 loop 1-1,text,true,,2218,9120,1,5,https://secondhand.binaracademy.org/products.json,564,0,0
+1700497131316,136,GET List Products,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,13318,421,1,5,https://secondhand.binaracademy.org/products.json,136,0,0
+1700497131453,716,GET Get Product,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33730,835,1,7,https://secondhand.binaracademy.org/,37,0,0
+1700497131453,37,GET Get Product-0,302,Found,1 user - 1 seconds - 1 loop 1-1,text,true,,712,427,1,7,https://secondhand.binaracademy.org/products/64257.json,37,0,0
+1700497131490,679,GET Get Product-1,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33018,408,1,7,https://secondhand.binaracademy.org/,676,0,0
+1700497132170,1838,PUT Update Product,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33734,133386,1,9,https://secondhand.binaracademy.org/,755,0,0
+1700497132170,755,PUT Update Product-0,302,Found,1 user - 1 seconds - 1 loop 1-1,text,true,,712,132978,1,9,https://secondhand.binaracademy.org/products/64257.json,755,0,0
+1700497132925,1083,PUT Update Product-1,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33022,408,1,9,https://secondhand.binaracademy.org/,1053,0,0
+1700497134008,636,POST Create Offer,200,OK,1 user - 1 seconds - 1 loop 1-1,text,false,Test failed: code expected to contain /201/,34133,1446,1,9,https://secondhand.binaracademy.org/,267,0,0
+1700497134008,267,POST Create Offer-0,302,Found,1 user - 1 seconds - 1 loop 1-1,text,true,,1111,1038,1,9,https://secondhand.binaracademy.org/offers.json,267,0,0
+1700497134275,369,POST Create Offer-1,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33022,408,1,9,https://secondhand.binaracademy.org/,330,0,0
+1700497134644,421,GET List Offers,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,1128,431,1,9,https://secondhand.binaracademy.org/users/64193/offers.json,421,0,0
+1700497135066,1146,DELETE Delete Product,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33730,953,1,9,https://secondhand.binaracademy.org/,209,0,0
+1700497135066,209,DELETE Delete Product-0,302,Found,1 user - 1 seconds - 1 loop 1-1,text,true,,712,545,1,9,https://secondhand.binaracademy.org/products/64257.json,209,0,0
+1700497135275,937,DELETE Delete Product-1,200,OK,1 user - 1 seconds - 1 loop 1-1,text,true,,33018,408,1,9,https://secondhand.binaracademy.org/,895,0,0
